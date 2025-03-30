@@ -1,0 +1,5 @@
+com\example\productos\model\Producto.class
+com\example\productos\GestionProductosReactivoApplication.class
+com\example\productos\repository\ProductoRepository.class
+com\example\productos\service\ProductoService.class
+SecurityConfig.class
